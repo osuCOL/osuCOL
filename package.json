@@ -1,0 +1,23 @@
+{
+  "name": "osu-latam",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sela-chan/osu-LATAM.git"
+  },
+  "author": "Sela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sela-chan/osu-LATAM/issues"
+  },
+  "homepage": "https://github.com/Sela-chan/osu-LATAM#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.3.1"
+  }
+}
